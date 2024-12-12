@@ -1,0 +1,1 @@
+This repository contains a simple JavaScript program that demonstrates type coercion, a common source of unexpected behavior in JavaScript. The bug.js file shows the unexpected behavior when adding a number and a string. The bugSolution.js file provides a solution to prevent this behavior by explicitly converting the input to numbers using Number().
